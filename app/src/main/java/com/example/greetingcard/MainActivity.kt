@@ -80,7 +80,7 @@ fun GreetingImage(message: String, from: String , modifier: Modifier = Modifier)
             contentDescription = null,
             contentScale = ContentScale.Crop,
             alpha = 0.5F
-       //test
+       //test1
         )
         Greeting(
             message = message,
